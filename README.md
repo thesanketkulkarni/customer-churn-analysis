@@ -25,3 +25,7 @@ The telecom company is experiencing a high churn rate (25-30%), leading to a exp
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
 - PowerPoint
+
+## Data Source
+Dataset: IBM Telco Customer Churn Dataset  
+Source: Kaggle  
